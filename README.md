@@ -10,7 +10,7 @@
 - 💬 Ask me about **Java , React , DSA**
 
 - 📫 How to reach me **jeevanthitrya@gmail.com**
-- You can view my [Resume here](https://drive.google.com/drive/u/0/my-drive)
+- You can view my [Resume here](https://drive.google.com/file/d/1Wb-6UrWy20n4p5O148mzfNaESuFKh_fi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
