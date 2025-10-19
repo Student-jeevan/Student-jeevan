@@ -31,6 +31,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=student-jeevan&" alt="student-jeevan" /></p>
 ### 🚀 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpratapsingh1&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BardavalGovind&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Student-jeevan&radius=16&theme=one-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </p>
