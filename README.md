@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thitre Jeevan Singh</h1>
 <h3 align="center">A passionate Java Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Crytp-Trading Application](https://github.com/Student-jeevan/RealTimeTradingApp)
+- 🔭 I’m currently working on [Crypto-Trading Application](https://github.com/Student-jeevan/RealTimeTradingApp)
 
 - 🌱 I’m currently learning **Springboot , React , AWS**
 
